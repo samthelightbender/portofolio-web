@@ -11,11 +11,11 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: {
-    default: "Syamsu Hidayat - IoT, Robotic, and Fullstack Developer",
-    template: "%s | Syamsu Hidayat",
+    default: "Syamsu Nur Hidayat - IoT, Robotic, and Fullstack Developer",
+    template: "%s | Syamsu Nur Hidayat",
   },
   description:
-    "Portfolio of Syamsu Hidayat, an IoT, Robotic, and Fullstack Developer crafting innovative solutions at the intersection of hardware, software, and intelligent systems.",
+    "Portfolio of Syamsu Nur Hidayat, an IoT, Robotic, and Fullstack Developer crafting innovative solutions at the intersection of hardware, software, and intelligent systems.",
   keywords: ["Syamsu Nur Hidayat", "Syamsu Hidayat", "SamTheLightBender", "Sam The Light Bender", "IoT Developer", "Robotic Developer", "Fullstack Developer", "Web Developer", "Portfolio", "NextJS", "React", "TypeScript", "Laravel", "PHP", "Arduino", "ESP32"],
   icons: {
     icon: "/favicon.png",
